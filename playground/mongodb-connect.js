@@ -13,8 +13,8 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp',(err, client)=>{
 
 	// db.collection('Todos').insertOne(
 	// {
-	// 	text:'Do something',
-	// 	completed: false
+	// 	text:'Eat Lunch',
+	// 	completed: true
 	// },(err, result)=>{
 	// 	if(err)
 	// 	{
